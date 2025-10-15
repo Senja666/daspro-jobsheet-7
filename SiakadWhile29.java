@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SiakadWhile29 {5
+public class SiakadWhile29 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int jumlahMahasiswa;
